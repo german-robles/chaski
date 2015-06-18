@@ -2,7 +2,6 @@
 # -*- coding: utf-8 *-*
 
 import getpass
-import yaml
 import smtplib
 from email.MIMEMultipart import MIMEMultipart
 from email.MIMEBase import MIMEBase

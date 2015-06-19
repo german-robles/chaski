@@ -2,7 +2,7 @@ Chaski
 =========
 The Chasquis (also Chaskis) were agile and highly trained runners that delivered messages,royal delicacies such as fish and other objects throughout the Inca Empire, principally in the service of the Sapa Inca.
 
-This script is an effort to send attached E-mails using gmail SMTP services. Very usefull to develop reporting scripts.
+This script is an effort to send attached E-mails using gmail SMTP services. Very useful to develop reporting scripts.
  
 # Configuration
 

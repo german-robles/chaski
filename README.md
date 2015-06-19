@@ -14,7 +14,7 @@ This script is an effort to send attached E-mails using gmail SMTP services. Ver
 
 * In CLI you must run 
 
- python chaski.py -t 'sender@gmail.com' - r 'recipient@example.com' -a '/path/to/your/attached.file' -s 'Your subject' -m 'your body message'
+ python chaski.py -t 'sender@gmail.com' -r 'recipient@example.com' -a '/path/to/your/attached.file' -s 'Your subject' -m 'your body message'
 
 
                                                 
